@@ -1,0 +1,11 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore common build artifacts
+*.o
+*.obj
+*.out
+
+# Ignore Visual Studio Code workspace settings and build outputs
+.vscode/
+**/output/
